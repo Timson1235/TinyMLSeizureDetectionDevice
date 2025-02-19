@@ -29,4 +29,3 @@ Movement Classification
 ## Cover Image
 ![alt text](CoverImage/cover_image.webp)
 
-![Project Cover Image](CoverImage/cover_image.webp)
