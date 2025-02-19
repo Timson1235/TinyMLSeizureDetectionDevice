@@ -1,22 +1,22 @@
-# [Your Project Title Here]
+# Seizure Detection Wristband
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+https://github.com/Timson1235/TinyMLSeizureDetectionDevice
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+In this project we used Edge Impulse to build a model that detects tonic clonic seizures with a wrist worn Tiny ML device.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Movement Classification
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** Neural Network
+- **Evaluation Metric:** Accuracy, F1-Score
+- **Result:** 99.76%, F1-Score: 0.96
 
 ## Documentation
 
@@ -27,5 +27,6 @@
 5. **[Presentation](4_Presentation/README.md)**
 
 ## Cover Image
+![alt text](CoverImage/cover_image.webp)
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](CoverImage/cover_image.webp)
